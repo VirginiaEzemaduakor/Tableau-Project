@@ -72,6 +72,7 @@ The Total Accident and Casualties are 144,419 and 195,737 respectively, when com
 
 ## Recommendations
 
+While each 
 The risk of accidents can be controlled at several levels.
 
 - Infrastructure 
@@ -80,9 +81,9 @@ The design of roads can have a considerable impact on users’ safety. Ideally, 
 
 Hazard locations and inadequate road designs have been considered as critical areas because of its geometrical design as well as surface friction, however, frequent accidents tend to be higher at these sections than at the normal. According to casualties by road type, single carriageway has the highest number of road accidents, therefore, the government or other board need to take action to convert the road into double lane, construct good roads, streetlights, and signs. In this way, they can reduce the high risk of accidents per year.
 
-- Traffic Rule Implementation
+- Traffic Laws and Driving Rules
 
-Once the infrastructure is well established, Traffic rules can be implemented very strictly with hefty fines. Traffic laws, such as speed limits, drunk driving, use of seatbelts and motorcycle helmets, and child restraints laws are enforced to keep roads safe. When drivers break traffic laws, they put themselves and others at risk. However, if the laws are strictly enforced, 90% of accidents can be avoided. Increasing the number of sobriety checkpoints can help reduce the number of drunk drivers on the road.
+Once the infrastructure is well established, Traffic laws and driving rules can be implemented very strictly with hefty fines. Studies have proven time and time again that drivers are more likely to abide by the rules if they fear punishment and less likely to if they believe they can get aware with it. Traffic laws and rules such as speeding, illegal parking, failure to stop at a "STOP" sign, driving with a broken headlight, driving under the influence (DUI), use of seatbelts and motorcycle helmets, and child restraints laws are enforced to keep roads safe. When drivers break traffic laws, they put themselves and others at risk. However, if laws like fine and a permanent or temporary driving ban are strictly enforced, 90% of accidents can be avoided. Increasing the number of sobriety checkpoints can help reduce the number of drunk drivers on the road.
 
 - Awareness
 
